@@ -1,8 +1,8 @@
 // Global variables for the ball
 float ball_x;
 float ball_y;
-float ball_dir = 1; // Direction in x 
-float ball_size = 7;  // Radius of ball
+float ball_dir = 6; // Direction in x 
+float ball_size = 25;  // Radius of ball
 float dy = 2;  // Change in y
 
 // Global variables for the paddle
