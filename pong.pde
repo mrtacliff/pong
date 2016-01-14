@@ -27,7 +27,7 @@ void setup() {
 };
 
 void draw() {
-    // Background color... RGB
+    // Background color... PYB
     background(155,0,0);
 
     // Increment x and y by speed of ball
