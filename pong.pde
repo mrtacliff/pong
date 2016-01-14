@@ -36,7 +36,7 @@ void draw() {
 
     // If the ball was missed... start over
     if(ball_x > width+ball_size) {
-        ball_x = -width/2 - ball_size;
+        ball_x = -width/50 - ball_size;
         ball_y = random((0.25*height), (0.75*height));
         dy = random(-5, 5);
         score = 0;
